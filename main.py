@@ -4,8 +4,11 @@ import os
 
 from github import Github
 
-MD_HEAD = """## Gitblog
+MD_HEAD = """# Gitblog
 My personal blog using issues and GitHub Actions
+
+## 跑步
+![](https://github.com/lusuzi/running/blob/master/assets/github_2021.svg)
 """
 
 BACKUP_DIR = "BACKUP"
