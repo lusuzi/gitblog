@@ -1,5 +1,8 @@
-## Gitblog
+# Gitblog
 My personal blog using issues and GitHub Actions
+
+## 跑步
+![](https://github.com/lusuzi/running/blob/master/assets/github_2021.svg)
 ## 最近更新
 - [1月份财务统计报告](https://github.com/lusuzi/gitblog/issues/10)--2021-01-12
 - [1月份时间统计报告](https://github.com/lusuzi/gitblog/issues/9)--2021-01-01
